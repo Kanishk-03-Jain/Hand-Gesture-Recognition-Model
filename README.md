@@ -38,6 +38,6 @@ The model recognizes the following gestures:
 To quit the application, press `q`.
 
 ## Demo
-
-<video src="demo.mp4" controls="controls" style="max-width: 100%;">
+checkout demo.mp4
+<video src="./demo.mp4" controls="controls" style="max-width: 100%;">
 </video>
